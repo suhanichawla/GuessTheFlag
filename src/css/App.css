@@ -1,0 +1,12 @@
+.img-style{
+  height: 300px;
+  width: 300px;
+}
+
+.radios{
+  display: inline;
+}
+
+#root{
+  text-align: center;
+}
